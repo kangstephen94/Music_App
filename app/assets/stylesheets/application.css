@@ -1,0 +1,32 @@
+h1 {
+  color: blue;
+  font-family: verdana;
+}
+
+
+.container {
+  display: flex;
+  align-items: baseline;
+}
+
+
+.sign_in {
+  background-color: red;
+}
+
+.create_user {
+  background-color: green;
+}
+
+.band_name {
+  font-size: 30px;
+}
+
+body {
+  background-color: Beige;
+}
+
+.show_band {
+  display: flex;
+  align-items: center;
+}
